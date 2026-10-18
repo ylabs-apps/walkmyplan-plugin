@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "walkmyplan": {
+      "type": "http",
+      "url": "https://mcp.walkmyplan.com/mcp"
+    }
+  }
+}
