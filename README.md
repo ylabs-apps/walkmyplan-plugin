@@ -1,6 +1,6 @@
-# WalkMyPlan
+# WalkMyPlan — AI Home Design & 3D Floor Plans
 
-Design your floor plan in chat and walk through it in 3D. Turn DWG or PDF plans into 3D, furnish rooms, and see the design as a photorealistic image.
+Design your home in chat and walk through it in 3D. Describe the rooms or upload a DWG or PDF floor plan, get a live 3D model, furnish rooms, change anything by asking, and see the design as a photorealistic image.
 
 ## Use it
 

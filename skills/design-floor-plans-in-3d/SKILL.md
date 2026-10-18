@@ -1,6 +1,6 @@
 ---
 name: design-floor-plans-in-3d
-description: Design homes and floor plans and view them in 3D. Use when the user wants to design a house, apartment or floor plan, sketch room layouts, convert a DWG or PDF floor plan into a 3D model, walk through a plan in 3D, furnish a room, plan a renovation, or see a photorealistic image of their home design.
+description: Design homes and floor plans and view them in 3D. Use whenever the user wants to design or plan a house, apartment, extension or room layout, draw or sketch a floor plan, turn a DWG, PDF or image of a floor plan into a 3D model, walk through a plan in 3D, furnish or arrange a room, plan a renovation, compare layouts, or see a realistic picture of how their home will look.
 ---
 
 # Design floor plans in 3D

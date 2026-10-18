@@ -1,8 +1,8 @@
 {
   "name": "walkmyplan",
-  "displayName": "WalkMyPlan",
+  "displayName": "WalkMyPlan — AI Home Design & 3D Floor Plans",
   "version": "1.0.0",
-  "description": "Design your floor plan in chat and walk through it in 3D. Turn DWG or PDF plans into 3D, furnish rooms, and see the design as a photorealistic image.",
+  "description": "Design your home in chat and walk through it in 3D. Describe the rooms or upload a DWG or PDF floor plan, get a live 3D model, furnish rooms, change anything by asking, and see the design as a photorealistic image.",
   "author": {
     "name": "WalkMyPlan"
   },
@@ -10,13 +10,18 @@
   "keywords": [
     "floor plan",
     "3d floor plan",
-    "house design",
     "home design",
+    "house design",
+    "house plan",
     "architecture",
     "dwg to 3d",
+    "pdf to 3d",
     "interior design",
-    "furnish room",
-    "3d walkthrough"
+    "furniture layout",
+    "renovation",
+    "3d model",
+    "3d walkthrough",
+    "room planner"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/walkmyplan-plugin",
