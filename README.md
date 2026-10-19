@@ -1,6 +1,6 @@
-# WalkMyPlan — AI Home Design & 3D Floor Plans
+# WalkMyPlan — Floor Plans in 3D
 
-Design your home in chat and walk through it in 3D. Describe the rooms or upload a DWG or PDF floor plan, get a live 3D model, furnish rooms, change anything by asking, and see the design as a photorealistic image.
+Design your home and walk through it in 3D. Describe the rooms or upload a DWG or PDF floor plan, get a live 3D model with several floors and stairs, furnish the rooms, change anything by asking, download the plan as a PDF, and open a photorealistic picture or a video tour of the design on the website.
 
 ## Use it
 
@@ -11,3 +11,7 @@ Design your home in chat and walk through it in 3D. Describe the rooms or upload
 ## Data
 
 This bundle contains instructions and a reference to the existing remote connector at https://mcp.walkmyplan.com/mcp. Tool requests are handled by WalkMyPlan (https://www.walkmyplan.com/privacy). This bundle contains no separate storage service.
+
+## Support
+
+support@walkmyplan.com
