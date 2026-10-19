@@ -1,6 +1,6 @@
 ---
 name: design-floor-plans-in-3d
-description: Design homes and floor plans and view them in 3D. Use whenever the user wants to design or plan a house, apartment, extension or room layout, draw or sketch a floor plan, turn a DWG, PDF or image of a floor plan into a 3D model, walk through a plan in 3D, furnish or arrange a room, plan a renovation, compare layouts, or see a realistic picture of how their home will look.
+description: Design homes and floor plans and walk through them in 3D. Use whenever the user wants to design or plan a house, apartment, extension or room layout, draw a floor plan, turn a DWG or PDF floor plan into a 3D model, see a plan in 3D or walk through it, add floors or stairs, furnish or arrange rooms, plan a renovation, compare layouts, download a plan as a PDF, or see a realistic picture or video tour of how their home will look.
 ---
 
 # Design floor plans in 3D
@@ -11,8 +11,8 @@ Use the WalkMyPlan connector's available tools for this task. If it is not conne
 
 1. **Offer three ways to start** and let the user choose: describe the home in chat (you design the layout), sketch it on a private page, or upload a floor plan file (one file per floor).
 2. **Build.** For a chat design, build the whole house in one step, then share the live 3D link and the Sketch link right away.
-3. **Refine.** Make the changes the user asks for (walls, doors, windows, rooms, furniture, floors) and share the updated link.
-4. **Go further.** After the first links, mention that they can get a photorealistic image of the design (this uses credits; the page shows the real balance) or a video tour.
+3. **Refine.** Make the changes the user asks for (walls, doors, windows, rooms, furniture, floors, stairs) and share the updated link.
+4. **Go further.** After the first links, mention that they can open a photorealistic picture or a video tour of the design. These are made on the WalkMyPlan website from the design; share the link the tool returns.
 
 ## Rules
 
@@ -24,5 +24,5 @@ Use the WalkMyPlan connector's available tools for this task. If it is not conne
 ## Don't
 
 - Don't delay the first 3D link with speculative edits.
-- Never promise free credits or a balance; the page shows the real balance.
+- Don't quote prices, credits or balances; the website shows them.
 - Don't delete plans without the user's explicit go-ahead.
