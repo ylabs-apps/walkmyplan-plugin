@@ -1,8 +1,8 @@
 {
   "name": "walkmyplan",
-  "displayName": "WalkMyPlan — AI Home Design & 3D Floor Plans",
+  "displayName": "WalkMyPlan — Floor Plans in 3D",
   "version": "1.0.0",
-  "description": "Design your home in chat and walk through it in 3D. Describe the rooms or upload a DWG or PDF floor plan, get a live 3D model, furnish rooms, change anything by asking, and see the design as a photorealistic image.",
+  "description": "Design your home and walk through it in 3D. Describe the rooms or upload a DWG or PDF floor plan, get a live 3D model with several floors and stairs, furnish the rooms, change anything by asking, download the plan as a PDF, and open a photorealistic picture or a video tour of the design on the website.",
   "author": {
     "name": "WalkMyPlan"
   },
@@ -10,23 +10,32 @@
   "keywords": [
     "floor plan",
     "3d floor plan",
+    "floor plan maker",
+    "floor plan designer",
+    "house plan",
     "home design",
     "house design",
-    "house plan",
-    "architecture",
-    "dwg to 3d",
-    "pdf to 3d",
+    "room planner",
+    "room layout",
+    "apartment layout",
     "interior design",
     "furniture layout",
-    "renovation",
-    "3d model",
-    "3d walkthrough",
-    "room planner"
+    "kitchen layout",
+    "home renovation",
+    "renovation planner",
+    "home extension",
+    "dwg to 3d",
+    "pdf to 3d",
+    "floor plan to 3d",
+    "3d house model",
+    "3d home walkthrough",
+    "architecture"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/walkmyplan-plugin",
   "homepage": "https://www.walkmyplan.com/",
   "privacyPolicyUrl": "https://www.walkmyplan.com/privacy",
   "termsOfServiceUrl": "https://www.walkmyplan.com/terms",
+  "supportUrl": "mailto:support@walkmyplan.com",
   "documentationUrl": "https://www.walkmyplan.com/docs.html"
 }
